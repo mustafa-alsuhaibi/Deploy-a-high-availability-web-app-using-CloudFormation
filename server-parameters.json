@@ -1,0 +1,22 @@
+[	
+	{
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject2"
+	},	
+	{
+		"ParameterKey": "InstanceType",
+		"ParameterValue": "t3.medium"
+	},
+	{
+		"ParameterKey": "LatestAmiId",
+		"ParameterValue": "ami-0747bdcabd34c712a"
+	},
+	{
+		"ParameterKey": "AutoScaleMaxSize",
+		"ParameterValue": "3"
+	},
+	{
+		"ParameterKey": "AutoScaleMinSize",
+		"ParameterValue": "2"
+	}
+]
